@@ -1,0 +1,19 @@
+{
+  "name": "custom-sidebar",
+  "label": "Custom Sidebar",
+  "type": "widget",
+  "version": "1.18.0",
+  "exbVersion": "1.18.0",
+  "description": "Custom sidebar widget using hitTest on map click.",
+  "author": "Shoaib Akhtar",
+  "copyright": "",
+  "license": "",
+  "icon": "icon.svg",
+  "properties": {},
+  "dependencies": [
+    "jimu-arcgis"
+  ],
+  "translatedLocales": [
+    "en"
+  ]
+}
